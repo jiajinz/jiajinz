@@ -33,16 +33,3 @@ I'm **JiaJin**, a **Full-Stack DataOps Engineer** passionate about automation, a
   <a href="https://www.linkedin.com/in/jiajin-zhou-81a220161/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
 
 ---
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JiajinZ&show_icons=true&theme=radical" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JiajinZ&theme=radical" alt="streak"/>
-</p>
-
----
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:2ecc71&height=100&section=footer"/>
-</p>
