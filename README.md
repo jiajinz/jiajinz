@@ -1,32 +1,44 @@
+<div align="center">
 
+# JiaJin Zhou
 
-## 👋 About Me
-I'm **JiaJin**, a **Full-Stack DataOps Engineer** passionate about automation, analytics, and building robust pipelines that turn raw data into actionable insights.  
-- 🔧 Experienced in Python, SQL, CI/CD, and cloud-based data engineering.  
-- 📊 Skilled at connecting BI tools, APIs, and automation workflows to empower teams.  
-- 🧗 Outside of tech, I’m a rock climber.
-- 🌱 Currently exploring advanced machine learning and AI-driven analytics.
+### *Solving problems, one hold at a time.*
 
----
+**Data & AI Engineering · Automation · Analytics**
 
-## 🧩 Interests
-- Data Engineering & Automation  
-- Machine Learning for Operations  
-- Cloud Infrastructure (AWS, GCP, Azure)  
-- Visualization & Interactive Dashboards  
-- Open-Source Collaboration  
+<img src="assets/climbing-route.svg" alt="An ascending climbing route connecting six holds, ending at an amber top-out hold" width="100%" />
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-202B30?style=flat-square&logo=github&logoColor=F4F4ED)](https://github.com/JiajinZ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-202B30?style=flat-square&logo=linkedin&logoColor=86CCB2)](https://www.linkedin.com/in/jiajin-zhou-81a220161/)
 
-## 🎓 Education
-- MS in Computer Science (Machine Learning Track) – Georgia Tech *(in progress)*  
-- MS in Data Analytics Engineering – Northeastern University
+</div>
 
----
+### `➜ ~ whoami`
 
-## 📫 Connect with Me
-<p align="left">
-  <a href="https://github.com/JiajinZ"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/jiajin-zhou-81a220161/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
+**JiaJin Zhou** — Data & AI Engineering
 
----
+I build automation, analytics systems, and intelligent tools that turn complex data into practical decisions. I like figuring out why things break, making data reliable, and building tools people can actually use.
+
+### `➜ ~ cat focus.txt`
+
+```text
+Data engineering     → Reliable pipelines & validation
+Analytics            → Clear insights & decision support
+Applied AI           → Useful, grounded workflows
+Automation           → Less repetitive work, better systems
+```
+
+### `➜ ~ ls toolkit/`
+
+`Python` · `SQL` · `Pandas` · `Plotly` · `Streamlit` · `Power BI` · `Git` · `pytest` · `APIs`
+
+### `➜ ~ cat education.txt`
+
+**M.S. Data Analytics Engineering** — Northeastern University  
+**B.F.A., cum laude**
+
+### `➜ ~ cat beyond_code.txt`
+
+Rock climbing. Curiosity. A love for solving hard problems.
+
+> **Build it. Test it. Improve it. Repeat.**
