@@ -1,7 +1,4 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ecc71,100:3498db&height=180&section=header&text=Hi,+I'm+JiaJin!&fontSize=40&fontColor=ffffff" alt="header"/>
-</p>
+
 
 ## 👋 About Me
 I'm **JiaJin**, a **Full-Stack DataOps Engineer** passionate about automation, analytics, and building robust pipelines that turn raw data into actionable insights.  
