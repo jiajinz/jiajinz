@@ -35,7 +35,6 @@ Automation           → Less repetitive work, better systems
 ### `➜ ~ cat education.txt`
 
 **M.S. Data Analytics Engineering** — Northeastern University  
-**B.F.A., cum laude**
 
 ### `➜ ~ cat beyond_code.txt`
 
