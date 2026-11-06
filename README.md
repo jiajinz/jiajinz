@@ -1,8 +1,8 @@
 <div align="center">
 
-# JiaJin Zhou
+# JiaJin
 
-### *Solving problems, one hold at a time.*
+## *Solving problems, one hold at a time.*
 
 **Data & AI Engineering · Automation · Analytics**
 
