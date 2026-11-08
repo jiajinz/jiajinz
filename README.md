@@ -8,9 +8,6 @@
 
 <img src="assets/climbing-route.svg" alt="An ascending climbing route connecting six holds, ending at an amber top-out hold" width="100%" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-202B30?style=flat-square&logo=github&logoColor=F4F4ED)](https://github.com/JiajinZ)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-202B30?style=flat-square&logo=linkedin&logoColor=86CCB2)](https://www.linkedin.com/in/jiajin-zhou-81a220161/)
-
 </div>
 
 ### `➜ ~ whoami`
