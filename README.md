@@ -6,10 +6,10 @@ I build data pipelines, analytics tools, and practical AI workflows that turn me
 
 ### Skills
 
-**Data** · 'Python', 'SQ'L, 'PostgreSQL', 'Pandas', 'NumPy'  
-**Analytics** · Plotly, Streamlit, Power BI, Tableau, Excel, Jupyter  
-**AI / ML** · LLM APIs, RAG, LangChain, scikit-learn  
-**Engineering** · Git, GitHub Actions, pytest, Docker, APIs, Linux / Bash
+**Data** · `Python` `SQL` `PostgreSQL` `Pandas` `NumPy`  
+**Analytics** · `Plotly` `Streamlit` `Power BI` `Tableau` `Excel` `Jupyter`  
+**AI / ML** · `LLM APIs` `RAG` `LangChain` `scikit-learn`  
+**Engineering** · `Git` `GitHub Actions` `pytest` `Docker` `APIs` `Linux / Bash`
 
 ### Projects
 
